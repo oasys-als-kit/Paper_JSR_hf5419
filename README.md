@@ -2,9 +2,12 @@
 
 Files and OASYS workspaces related to the paper:
 
-https://doi.org/10.1107/S160057752100401X
 
 Simulations of applications using diaboloid mirrors
+
+J. Synchrotron Rad. (2021). 28, 1041-1049
+
+https://doi.org/10.1107/S160057752100401X
 
 M. Sanchez del Rio, K. A. Goldberg, V. V. Yashchuk, I. Lacey and H. A. Padmore
 
