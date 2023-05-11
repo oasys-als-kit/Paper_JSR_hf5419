@@ -3,7 +3,7 @@
 Files and OASYS workspaces related to the paper:
 
 
-Simulations of applications using diaboloid mirrors
+## Simulations of applications using diaboloid mirrors
 
 J. Synchrotron Rad. (2021). 28, 1041-1049
 
@@ -15,3 +15,9 @@ The diaboloid is a reflecting surface that converts a spherical wave to a cylind
 
 Keywords: diaboloid; aberrations; bending-magnet beamline; ray tracing; low-emittance storage rings.
 
+
+## OASYS workspace
+You can load the OASYS workspace from OASYS->File->Open remote, and entering the workspace URL: 
+```
+https://raw.githubusercontent.com/oasys-als-kit/Paper_JSR_hf5419/main/oasys_workspace_diaboloid.ows
+```
